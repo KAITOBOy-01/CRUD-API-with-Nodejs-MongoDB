@@ -1,0 +1,1 @@
+This project is a basic implementation of a CRUD (Create, Read, Update, Delete) system using Node.js and MongoDB. It showcases fundamental HTTP methods—POST, GET, PATCH, and DELETE—through a simple and straightforward approach. The Insomnia tool is utilized to simulate API requests and verify the system's functionality during development and testing.
